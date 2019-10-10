@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-05T10:20:01 GMT-07:00" name="Suite" finished-at="2019-10-05T10:20:52 GMT-07:00" duration-ms="50358">
+    <groups>
+    </groups>
+    <test started-at="2019-10-05T10:20:01 GMT-07:00" name="Test" finished-at="2019-10-05T10:20:52 GMT-07:00" duration-ms="50358">
+      <class name="com.atmecs.project.script.PageValidation">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.atmecs.project.script.PageValidation@d706f19]" started-at="2019-10-05T10:20:01 GMT-07:00" name="browserSetup" finished-at="2019-10-05T10:20:21 GMT-07:00" duration-ms="19122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="clickOptionsExplore()[pri:1, instance:com.atmecs.project.script.PageValidation@d706f19]" started-at="2019-10-05T10:20:21 GMT-07:00" name="clickOptionsExplore" finished-at="2019-10-05T10:20:29 GMT-07:00" duration-ms="8850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOptionsExplore -->
+        <test-method signature="clickOptionMoreInfo(java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.project.script.PageValidation@d706f19]" started-at="2019-10-05T10:20:30 GMT-07:00" name="clickOptionMoreInfo" data-provider="homePageData" finished-at="2019-10-05T10:20:34 GMT-07:00" duration-ms="4031" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[(//a[text()="More info"])[1]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOptionMoreInfo -->
+        <test-method signature="clickOptionMoreInfo(java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.project.script.PageValidation@d706f19]" started-at="2019-10-05T10:20:34 GMT-07:00" name="clickOptionMoreInfo" data-provider="homePageData" finished-at="2019-10-05T10:20:39 GMT-07:00" duration-ms="4487" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[(//a[text()="More info"])[2]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOptionMoreInfo -->
+        <test-method signature="clickOptionMoreInfo(java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.project.script.PageValidation@d706f19]" started-at="2019-10-05T10:20:39 GMT-07:00" name="clickOptionMoreInfo" data-provider="homePageData" finished-at="2019-10-05T10:20:43 GMT-07:00" duration-ms="3723" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[(//a[text()="More info"])[3]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOptionMoreInfo -->
+        <test-method signature="clickOptionMoreInfo(java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.project.script.PageValidation@d706f19]" started-at="2019-10-05T10:20:43 GMT-07:00" name="clickOptionMoreInfo" data-provider="homePageData" finished-at="2019-10-05T10:20:47 GMT-07:00" duration-ms="4007" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[(//a[text()="More info"])[4]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOptionMoreInfo -->
+        <test-method signature="clickOptionMoreInfo(java.lang.String, java.lang.String)[pri:2, instance:com.atmecs.project.script.PageValidation@d706f19]" started-at="2019-10-05T10:20:47 GMT-07:00" name="clickOptionMoreInfo" data-provider="homePageData" finished-at="2019-10-05T10:20:52 GMT-07:00" duration-ms="4940" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[(//a[text()="More info"])[5]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOptionMoreInfo -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.atmecs.project.script.PageValidation@d706f19]" started-at="2019-10-05T10:20:52 GMT-07:00" name="browserClose" finished-at="2019-10-05T10:20:52 GMT-07:00" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.atmecs.project.script.PageValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
